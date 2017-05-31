@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="B5DDataModel.cpp" />
+    <ClCompile Include="B5DFile.cpp" />
+    <ClCompile Include="DMB5DFiles.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainWindows.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="B5DDataModel.h" />
+    <ClInclude Include="B5DFile.h" />
+    <ClInclude Include="def.h" />
+    <ClInclude Include="DMB5DFiles.h" />
+    <ClInclude Include="MainWindows.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+</Project>

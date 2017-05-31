@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jk_b5d_manager", "jk_b5d_manager\jk_b5d_manager.vcxproj", "{0F882745-6043-492B-910E-3ED4A8506FD6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jk_b5d_manager", "jk_b5d_manager\grid.vcxproj", "{BB1FA326-34C1-4DBC-9503-D5A36386646B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,16 +11,22 @@ Global
 		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
+		Template|x64 = Template|x64
+		Template|x86 = Template|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0F882745-6043-492B-910E-3ED4A8506FD6}.Debug|x64.ActiveCfg = Debug|x64
-		{0F882745-6043-492B-910E-3ED4A8506FD6}.Debug|x64.Build.0 = Debug|x64
-		{0F882745-6043-492B-910E-3ED4A8506FD6}.Debug|x86.ActiveCfg = Debug|Win32
-		{0F882745-6043-492B-910E-3ED4A8506FD6}.Debug|x86.Build.0 = Debug|Win32
-		{0F882745-6043-492B-910E-3ED4A8506FD6}.Release|x64.ActiveCfg = Release|x64
-		{0F882745-6043-492B-910E-3ED4A8506FD6}.Release|x64.Build.0 = Release|x64
-		{0F882745-6043-492B-910E-3ED4A8506FD6}.Release|x86.ActiveCfg = Release|Win32
-		{0F882745-6043-492B-910E-3ED4A8506FD6}.Release|x86.Build.0 = Release|Win32
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Debug|x64.ActiveCfg = Debug|x64
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Debug|x64.Build.0 = Debug|x64
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Debug|x86.Build.0 = Debug|Win32
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Release|x64.ActiveCfg = Release|x64
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Release|x64.Build.0 = Release|x64
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Release|x86.ActiveCfg = Release|Win32
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Release|x86.Build.0 = Release|Win32
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Template|x64.ActiveCfg = Template|x64
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Template|x64.Build.0 = Template|x64
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Template|x86.ActiveCfg = Template|Win32
+		{BB1FA326-34C1-4DBC-9503-D5A36386646B}.Template|x86.Build.0 = Template|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
